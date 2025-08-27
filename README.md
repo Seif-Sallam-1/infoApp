@@ -1,7 +1,7 @@
 # infoApp
 📱 Info Application
-
-An Android application built using Kotlin and XML layouts in Android Studio. This app demonstrates a simple profile/info display with multiple UI components and clean navigation.
+An Android application built using Kotlin and XML layouts in Android Studio.
+This app demonstrates a simple profile/info display with multiple UI components and clean navigation.
 
 ✨ Features
 
@@ -19,13 +19,13 @@ Material Design UI: Clean and modern design following Android guidelines.
 
 🖼️ Screenshots
 
-(Add screenshots here after running the app on your emulator/device)
+<img width="573" height="1280" alt="image" src="https://github.com/user-attachments/assets/155545e4-258f-4e37-829e-57116d9569cd" />
 
 ⚙️ Tech Stack
 
 Language: Kotlin
 
-UI: XML Layouts (ConstraintLayout, ScrollView, TextView, ImageView, etc.)
+UI: XML Layouts (ConstraintLayout, ScrollView, TextView with hyperlinks, ImageView, etc.)
 
 IDE: Android Studio
 
@@ -33,21 +33,27 @@ Version Control: Git & GitHub
 
 📖 How to Run
 
-Clone the repository:
+Download the zipped source code from this repository.
 
-git clone https://github.com/Seif-Sallam-1/infoApp.git
+Unzip the file on your computer.
 
-Open the project in Android Studio.
+Open the unzipped folder in Android Studio.
 
 Sync Gradle and build the project.
 
-Run on an emulator or a physical device.
+Run on an emulator or install on any Android phone.
 
 📌 Purpose
 
 This app was built to practice:
 
 Android UI components (ScrollView, ImageView, TextView with hyperlinks).
+
+Handling ActionBar in an activity.
+
+Supporting multi-language text (Arabic).
+
+Basic project structuring and version control with GitHub.
 
 Handling ActionBar in an activity.
 
